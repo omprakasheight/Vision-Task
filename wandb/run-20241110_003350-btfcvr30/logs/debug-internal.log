@@ -1,0 +1,7 @@
+{"time":"2024-11-10T00:33:50.244356+05:30","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-10T00:33:50.24443+05:30","level":"INFO","msg":"created symlink","path":"/Users/om/YOLOv8 training/wandb/run-20241110_003350-btfcvr30/logs/debug-core.log"}
+{"time":"2024-11-10T00:33:50.359117+05:30","level":"INFO","msg":"created new stream","id":"btfcvr30"}
+{"time":"2024-11-10T00:33:50.359157+05:30","level":"INFO","msg":"stream: started","id":"btfcvr30"}
+{"time":"2024-11-10T00:33:50.359172+05:30","level":"INFO","msg":"sender: started","stream_id":"btfcvr30"}
+{"time":"2024-11-10T00:33:50.359212+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"btfcvr30"}}
+{"time":"2024-11-10T00:33:50.359168+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"btfcvr30"}}

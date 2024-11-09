@@ -1,0 +1,15 @@
+{"time":"2024-11-09T22:55:33.753016+05:30","level":"INFO","msg":"using version","core version":"0.18.6"}
+{"time":"2024-11-09T22:55:33.753063+05:30","level":"INFO","msg":"created symlink","path":"/Users/om/YOLOv8 training/wandb/offline-run-20241109_225533-9gxbq72j/logs/debug-core.log"}
+{"time":"2024-11-09T22:55:34.36826+05:30","level":"INFO","msg":"created new stream","id":"9gxbq72j"}
+{"time":"2024-11-09T22:55:34.368313+05:30","level":"INFO","msg":"stream: started","id":"9gxbq72j"}
+{"time":"2024-11-09T22:55:34.368383+05:30","level":"INFO","msg":"sender: started","stream_id":"9gxbq72j"}
+{"time":"2024-11-09T22:55:34.368371+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"9gxbq72j"}}
+{"time":"2024-11-09T22:55:34.368383+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"9gxbq72j"}}
+{"time":"2024-11-09T22:55:34.372439+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-09T22:55:36.499344+05:30","level":"INFO","msg":"stream: closing","id":"9gxbq72j"}
+{"time":"2024-11-09T22:55:36.499432+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-11-09T22:55:36.500225+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-11-09T22:55:36.5007+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"9gxbq72j"}}
+{"time":"2024-11-09T22:55:36.500684+05:30","level":"INFO","msg":"handler: closed","stream_id":{"value":"9gxbq72j"}}
+{"time":"2024-11-09T22:55:36.500706+05:30","level":"INFO","msg":"sender: closed","stream_id":"9gxbq72j"}
+{"time":"2024-11-09T22:55:36.500954+05:30","level":"INFO","msg":"stream: closed","id":"9gxbq72j"}

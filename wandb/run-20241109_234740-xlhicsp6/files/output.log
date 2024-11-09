@@ -1,0 +1,24 @@
+upload and label your dataset, and get an API KEY here: https://app.roboflow.com/?model=undefined&ref=undefined
+loading Roboflow workspace...
+Traceback (most recent call last):
+  File "/Users/om/YOLOv8 training/src/train.py", line 46, in <module>
+    main()
+  File "/Users/om/YOLOv8 training/src/train.py", line 26, in main
+    download_dataset()
+  File "/Users/om/YOLOv8 training/src/train.py", line 20, in download_dataset
+    project = rf.workspace("YOUR_WORKSPACE").project("aquarium-data-cots")
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/om/YOLOv8 training/yolo_env/lib/python3.12/site-packages/roboflow/__init__.py", line 243, in workspace
+    list_projects = rfapi.get_workspace(api_key, the_workspace)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/om/YOLOv8 training/yolo_env/lib/python3.12/site-packages/roboflow/adapters/rfapi.py", line 36, in get_workspace
+    raise RoboflowError(response.text)
+roboflow.adapters.rfapi.RoboflowError: {
+    "error": {
+        "message": "This API key does not exist (or has been revoked).",
+        "status": 401,
+        "type": "OAuthException",
+        "hint": "You may retrieve your API key via the Roboflow Dashboard. Go to Account > Roboflow Keys to retrieve yours.",
+        "key": "YOUR_ROBOFLOW_API_KEY"
+    }
+}
