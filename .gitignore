@@ -1,5 +1,25 @@
-fresh_yolo_env/
-new_yolo_env/
+# Virtual environments
 yolo_env/
+new_yolo_env/
+fresh_yolo_env/
+
+# Datasets
+dataset/
+
+# Config or secret keys
 kaggle.json
+
+# Experiment tracking logs
 wandb/
+
+# Python cache files
+_pycache_/
+*.pyc
+*.pyo
+
+# OS generated files
+.DS_Store
+
+# Environment and dependency files
+.env
+*.env
