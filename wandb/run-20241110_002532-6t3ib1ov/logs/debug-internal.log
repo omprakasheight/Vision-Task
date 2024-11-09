@@ -1,7 +1,0 @@
-{"time":"2024-11-10T00:25:32.460556+05:30","level":"INFO","msg":"using version","core version":"0.18.6"}
-{"time":"2024-11-10T00:25:32.46059+05:30","level":"INFO","msg":"created symlink","path":"/Users/om/YOLOv8 training/wandb/run-20241110_002532-6t3ib1ov/logs/debug-core.log"}
-{"time":"2024-11-10T00:25:32.571879+05:30","level":"INFO","msg":"created new stream","id":"6t3ib1ov"}
-{"time":"2024-11-10T00:25:32.571915+05:30","level":"INFO","msg":"stream: started","id":"6t3ib1ov"}
-{"time":"2024-11-10T00:25:32.57193+05:30","level":"INFO","msg":"handler: started","stream_id":{"value":"6t3ib1ov"}}
-{"time":"2024-11-10T00:25:32.571931+05:30","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"6t3ib1ov"}}
-{"time":"2024-11-10T00:25:32.572042+05:30","level":"INFO","msg":"sender: started","stream_id":"6t3ib1ov"}
