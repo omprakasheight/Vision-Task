@@ -1,5 +1,5 @@
-train: ../train/images
-val: ../valid/images
+train: /Users/om/YOLOv8 training/dataset/aquarium-data-cots/aquarium_pretrain/train/images
+val: /Users/om/YOLOv8 training/dataset/aquarium-data-cots/aquarium_pretrain/valid/images
 
 nc: 7
 names: ['fish', 'jellyfish', 'penguin', 'puffin', 'shark', 'starfish', 'stingray']
