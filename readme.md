@@ -28,7 +28,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/YOLOv8-training.git
+git clone https://github.com/omprakasheight/Vision-Task.git
 cd YOLOv8-training
 Create and Activate a Virtual Environment:
 
