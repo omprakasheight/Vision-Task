@@ -87,9 +87,9 @@ def main():
     # 
     results = model.train(
     data="dataset/aquarium-data-cots/aquarium_pretrain/data.yaml",
-    epochs=5,
-    batch=8,  # Smaller batch size for faster testing
-    imgsz=320,
+    epochs=50,
+    batch=BATCH_SIZE,  # Smaller batch size for faster testing
+    imgsz=640,
     name="yolov8_aquarium",
     augment=True
 )
